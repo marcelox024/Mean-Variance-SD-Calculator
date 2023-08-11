@@ -1,2 +1,6 @@
 # Mean-Variance-SD-Calculator
-We made a calculator that returns the mean, variance, standard deviation and other measures from a list of 9 numbers.
+I made a calculator that returns the mean, variance, standard deviation and other measures from a list of 9 numbers using **Numpy (Python)**.
+
+This is the 1st of 5 projects to get the Data Analysis with Python certification from freeCodeCamp.
+
+In this project, I used **Numpy**, lists, disctionarys and Python Exceptions.
