@@ -3,4 +3,4 @@ I made a calculator that returns the mean, variance, standard deviation and othe
 
 This is the 1st of 5 projects to get the Data Analysis with Python certification from freeCodeCamp.
 
-In this project, I used **Numpy**, lists, disctionarys and Python Exceptions.
+In this project, I used **Numpy**, lists, disctionaries and Python Exceptions.
