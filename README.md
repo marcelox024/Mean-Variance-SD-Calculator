@@ -3,6 +3,6 @@ I made a calculator that returns the mean, variance, standard deviation and othe
 
 This is the 1st of 5 projects to get the Data Analysis with Python certification from [freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/).
 
-In this project, I used **Numpy**, lists, disctionaries and Python Exceptions.
+In this project, I used **Numpy**, lists, dictionaries and Python Exceptions.
 
 ![Img Alt Text](https://unipython.com/wp-content/uploads/2017/06/NumPy-Funciones-basicas-de-algebra-496x306.png)
